@@ -1,3 +1,3 @@
 # Emotes
 
-Game Boy related emetes based on Twemoji.
+Game Boy related emotes based on Twemoji.
