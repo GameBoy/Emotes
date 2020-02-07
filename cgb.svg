@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 36 36"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="cgb.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="/home/rowan/Documents/Game Boy Emotes/cgb.png"
+   inkscape:export-xdpi="960"
+   inkscape:export-ydpi="960">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     id="namedview18"
+     showgrid="true"
+     inkscape:zoom="22.627417"
+     inkscape:cx="9.4049262"
+     inkscape:cy="16.719051"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16">
+    <inkscape:grid
+       type="xygrid"
+       id="grid24"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#03c1d8;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 9,2 C 7.8954305,2 7,2.8954305 7,4 v 29 c 0,1.104569 0.9227308,1.755941 2,2 6.204601,1.405674 12.183299,1.259323 18,0 1.079558,-0.233726 2,-0.895431 2,-2 V 4 C 29,2.8954305 28.104569,2 27,2 Z"
+     id="rect1110"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sssssssss" />
+  <circle
+     style="fill:#4c4d4e;fill-opacity:1"
+     cx="21.603001"
+     cy="27.396999"
+     r="1.603"
+     id="circle854" />
+  <path
+     style="fill:#4c4d4e;fill-opacity:1"
+     d="m 12.710934,22.02339 c -0.279,0 -0.505859,0.22686 -0.505859,0.50586 -8.4e-5,0.900476 3.71e-4,1.799172 -0.002,2.697265 H 9.5058594 C 9.2268594,25.226515 9,25.451422 9,25.730422 v 1.558593 c 0,0.279 0.2268594,0.50586 0.5058594,0.50586 h 2.1679686 c 0.171849,0.0045 0.353917,0.0013 0.529297,0.002 v 2.697266 c 0,0.279 0.226859,0.505859 0.505859,0.505859 h 1.558594 c 0.279,0 0.503906,-0.226859 0.503906,-0.505859 l 0.0019,-2.697266 h 2.699219 c 0.279,0 0.505859,-0.226859 0.505859,-0.505859 v -1.558594 c 0,-0.279 -0.226859,-0.503906 -0.505859,-0.503906 -0.901133,-8.5e-5 -1.800467,3.67e-4 -2.699219,-0.002 v -2.697265 c 0,-0.279 -0.226859,-0.50586 -0.505859,-0.50586 z"
+     id="path900"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="scccssscccsscccsscccss" />
+  <circle
+     id="circle915"
+     r="1.603"
+     cy="25.603001"
+     cx="25.396999"
+     style="fill:#4c4d4e;fill-opacity:1" />
+  <path
+     style="fill:#4c4d4e;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 10,4 C 9.4477153,4 9,4.4477153 9,5 v 13.5 c 0,0.552285 0.4520002,0.931337 1,1 5.350726,0.670434 10.683864,0.662891 16,0 0.548041,-0.06834 1,-0.447715 1,-1 V 5 C 27,4.4477153 26.552285,4 26,4 Z"
+     id="path1129"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sscsscsss" />
+  <rect
+     style="fill:#cccbbb;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1000"
+     width="12"
+     height="11"
+     x="12"
+     y="6" />
+</svg>
